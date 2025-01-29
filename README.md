@@ -7,7 +7,7 @@ This .NET C# application is designed to extract structured data from PDF invoice
 - **File Upload API**: Accepts PDF files and extracts text data.
 - **PDF Text Extraction**: Utilizes `PdfTextExtractor` to extract structured content.
 - **Regular Expression Parsing**: Identifies key invoice details such as GSTN ID, PAN, invoice number, flight details, etc.
-- **Database Storage**: Stores extracted invoice and flight details in a PostgreSQL database using EF Core.
+- **Database Storage**: Stores extracted invoice and flight details in a Microsoft sql database using EF Core.
 - **Error Handling**: Implements exception handling to manage file parsing errors.
 - **Asynchronous Processing**: Uses `async/await` to optimize API performance.
 
