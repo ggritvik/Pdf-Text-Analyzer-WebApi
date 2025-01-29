@@ -21,8 +21,8 @@ This .NET C# application is designed to extract structured data from PDF invoice
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/dotnet-pdf-processing.git
-   cd dotnet-pdf-processing
+   git clone https://github.com/ggritvik/Pdf-Text-Analyzer-WebApi.git
+   cd Pdf-Text-Analyzer-WebApi
    ```
 
 2. **Install dependencies:**
@@ -75,4 +75,3 @@ Feel free to submit issues or pull requests to improve this project.
 
 ## License
 This project is licensed under the MIT License.
-
