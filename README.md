@@ -16,7 +16,7 @@ This .NET C# application is designed to extract structured data from PDF invoice
 - **Entity Framework Core** (for database interactions)
 - **iText7** (for PDF text extraction)
 - **Regular Expressions (Regex)** (for structured data extraction)
-- **PostgreSQL** (as the database backend)
+- **Microsoft SQL Server** (as the database backend)
 
 ## Installation
 1. **Clone the repository:**
